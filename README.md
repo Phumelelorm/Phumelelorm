@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phumelelorm full names: Phumelelo Ramaabele Masoga holding a degree qualification in Bsc(Mathematical Science)
-- 👀 I'm An aspiring Web Developer and Data Scientist interested in coding
+- 👀 I'm an aspiring Web Developer and a Data Scientist interested in Coding and working with Data
 - 🌱 Currently learning front end programming languages and a bit of backend
 - 💞️ I’m looking to collaborate on this platform with like minded people in Tech
 - 📫 How to reach me ...simply follow me on linkedin by clicking on this link www.linkedin.com/in/phumelelo-masoga-56b7b8238
